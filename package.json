@@ -1,6 +1,6 @@
 {
   "name": "queue-runner",
-  "homepage": "https://github.com/ezzatmakar/queue-runner",
+  "homepage": "https://ezzatmakar.github.io/queue-runner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
