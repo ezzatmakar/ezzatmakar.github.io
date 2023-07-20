@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ezzatmakar/queue-runner/static/css/main.3a54b691.css",
+    "main.js": "/ezzatmakar/queue-runner/static/js/main.c76de879.js",
+    "index.html": "/ezzatmakar/queue-runner/index.html",
+    "main.3a54b691.css.map": "/ezzatmakar/queue-runner/static/css/main.3a54b691.css.map",
+    "main.c76de879.js.map": "/ezzatmakar/queue-runner/static/js/main.c76de879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a54b691.css",
+    "static/js/main.c76de879.js"
+  ]
+}
